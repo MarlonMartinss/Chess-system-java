@@ -22,10 +22,7 @@ public class UI {
 		 else {
 			 System.out.println(piece);
 		 }
-<<<<<<< HEAD
-		 System.out.print("  ");
-=======
-		 System.out.print(" ");
->>>>>>> 1c1fd794c391092f96a9df90b60bcfb96660ea4e
+
+
 	 }
 }
